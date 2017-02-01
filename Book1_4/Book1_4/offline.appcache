@@ -1,0 +1,26 @@
+﻿CACHE MANIFEST
+#created : 12/14/2016 4:59:45 PM
+
+#Explicitly cached entries
+CACHE:
+assets/css/ssc.realtimesync.min.css
+assets/css/jquery.qtip.min.css
+assets/css/default-ssc-theme.css
+assets/css/site.css
+assets/js/modernizr.min.js
+assets/js/jquery.min.js
+assets/js/ssc.formbinder.min.js
+assets/js/equalheight.min.js
+assets/js/ssc.realtimesync.min.js
+assets/js/jquery.qtip.min.js
+assets/js/ssc.formstorage.min.js
+assets/js/ssc.script.js
+assets/js/bootstrap.min.js
+assets/fonts/glyphicons-halflings-regular.svg
+assets/fonts/glyphicons-halflings-regular.ttf
+assets/fonts/glyphicons-halflings-regular.woff
+
+
+#All Other resources (e.g. sites) require the user to be online
+NETWORK:
+*
